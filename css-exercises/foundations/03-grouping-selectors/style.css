@@ -1,0 +1,22 @@
+*
+{
+    background-color: white;
+}
+
+.click
+{
+    background-color: black;
+    color: white;
+    width: 200px;
+    height: 65px;
+    font-size: 28px;
+    border: 4px inset rgba(240, 213, 213, 0.925);
+    font-family: 'Times New Roman', sans-serif;
+    margin: 20px 5px;
+}
+
+.click-yellow
+{
+    background-color: yellow;
+    color: black;
+}
