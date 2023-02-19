@@ -1,0 +1,23 @@
+.number-1
+{
+    background-color: rgba(240, 109, 131, 0.5);
+    font-family: verdana, 'deja vu', sans-serif;
+}
+
+#number-2
+{
+    color: blue;
+    font-size: 36px;
+}
+
+.number-1.number-3
+{
+    font-size: 24px;
+}
+
+#number-4
+{
+    background-color: rgba(22, 230, 22, 0.6);
+    font-size: 24px;
+    font-weight: bold;
+}
