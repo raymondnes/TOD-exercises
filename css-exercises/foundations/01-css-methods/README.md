@@ -1,10 +1,13 @@
-The properties you need to add to each element are:
+# The properties you need to add to each element are:
 
-div: a red background, white text, a font size of 32px, center aligned, and bold
-p: a green background, white text, and a font size of 18px
-button: an orange background and a font size of 18px
+### div: a red background, white text, a font size of 32px, center aligned, and bold
+### p: a green background, white text, and a font size of 18px
+### button: an orange background and a font size of 18px
 
-Solution:
+---
+
+## Solution:
+
 I connected the CSS file to the html using the link tag below
 <link rel="stylesheet" href="style.css">
 
